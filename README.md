@@ -7,31 +7,76 @@ It is a versatile language used in various domains, including web development, s
 Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
 Key Features of Python:
 
-Readability:
 
-Python's syntax is designed to be clear and readable, using indentation and whitespace instead of braces.
-It emphasizes code readability, which leads to more maintainable and understandable programs.
-Dynamically Typed:
+## 🚀 About Me
+I'm The Rajendra Pacharne 
 
-Python is dynamically typed, meaning you don't need to explicitly declare variable types.
-Variables can dynamically change their type during runtime, providing flexibility but also requiring careful attention.
-Strong Standard Library:
 
-Python comes with a comprehensive standard library that provides a wide range of modules and functions for various tasks.
-It allows developers to access functionalities for tasks like file I/O, networking, regular expressions, and more without needing external dependencies.
-Extensive Third-Party Libraries:
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajendra-pacharne/)
 
-Python has a vast ecosystem of third-party libraries and frameworks that extend its capabilities.
-Popular libraries like NumPy, Pandas, Matplotlib, TensorFlow, Django, and Flask provide powerful tools for data analysis, machine learning, web development, and more.
-Cross-Platform:
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RajendraPacharn/)
 
-Python is a cross-platform language, meaning it can run on different operating systems such as Windows, macOS, and Linux.
-Developers can write Python code once and run it on multiple platforms without significant modifications.
-Interpreted and Interactive:
 
-Python is an interpreted language, which means it does not need to be compiled before running the code.
-It offers interactive programming, allowing users to execute code line by line, which is useful for testing and exploring.
-Community and Support:
+## Other Common Github Profile Sections
+🎓 Education:
 
-Python has a vibrant and active community of developers who contribute to its growth.
-This community provides extensive documentation, tutorials, and support through online forums, conferences, and open-source contributions.
+Bachelor of Technology (B.Tech) in Information Technology, 2023
+Diploma in Computer Engineering
+
+👩‍💼 Internship:
+
+Java with DSA and System Design  Intern at [PW-Skill], [6 Month/2023]
+
+Android Application Development Intern at [Remark Skill], [2 Month/2022]
+
+👩‍💻 Skills:
+
+Java
+
+Pyhon 
+
+AI and ML {Basics}
+
+Data Structures and Algorithms (DSA) in Java
+
+Digital Marketing
+
+Android Application Development
+
+🧑‍🔬 Interests:
+
+Artificial Intelligence
+Machine Learning
+Data Analysis
+Digital Marketing
+
+🔎 Seeking Help:
+
+I'm looking for help with honing my DSA skills in Java and expanding my knowledge in the field of AI and ML.
+
+💬 Ask Me About:
+
+AI and ML
+
+DSA in Java
+
+Digital Marketing strategies and techniques
+
+📫 How to Reach Me:
+
+GitHub: [https://github.com/Rajendra-pacharne]
+
+LinkedIn: [https://www.linkedin.com/in/rajendra-pacharne]
+
+Email: [iamrajendrapacharne@gmail.com]
+
+
+⚡ Fun Fact:
+
+I enjoy exploring new technologies and finding innovative ways to apply them in real-world scenarios.
+
+## Feedback
+
+If you have any feedback, please reach out to us at iamrajendrapacharne@gmail.com or you can discuss in 
+discussion section on Github.
